@@ -1,7 +1,7 @@
 from random import getrandbits
 
 
-def combattimento(pers1 , pers2):
+def combattimento(pers1, pers2):
     print(f"Prima dell'attacco\n"
           f"Vita di {pers1.nome} = {pers1.vita}\n"
           f"Vita di {pers2.nome} = {pers2.vita}\n")

@@ -5,8 +5,8 @@ from combattimento import combattimento
 
 
 def main():
-    protagonista = Personaggio("Arturocassoduro", 20)
-    nemico = Personaggio("Blanz", 13)
+    protagonista = Personaggio("Artur", 20)
+    nemico = Personaggio("Bla", 13)
 
     spada = Arma("spada", 10, 10)
     spadone = Arma("spadone", 100, 100)
