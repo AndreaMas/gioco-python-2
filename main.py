@@ -1,4 +1,3 @@
-import sys
 from personaggio import Personaggio
 from arma import Arma
 from combattimento import combattimento
