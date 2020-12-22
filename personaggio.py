@@ -5,7 +5,7 @@ class Personaggio:
     def __init__(self, nome, vita):
         self.nome = nome
         self.vita = vita
-        self.arma = Arma("Vuoto", 0, 0)
+        self.arma = Arma("Pugni", 0, 0)
         self.zaino = []
 
     def stampa_zaino(self):
