@@ -1,4 +1,4 @@
-from random import getrandbits
+# from random import getrandbits
 
 
 def combattimento(pers1, pers2):
